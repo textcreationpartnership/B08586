@@ -1,0 +1,402 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The sin and folly of drunkenness considered I. What it is.  II. What is vicious or sinfull in drinking (whether men will call it drunkenness or no.)  III.  What may be said against it.</title>
+            <author>Buckler, Edward, 1610-1706.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 61 KB of XML-encoded text transcribed from 25 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08586</idno>
+            <idno type="OCLC"> 69648546</idno>
+            <idno type="STC">Wing B5351A</idno>
+            <idno type="STC">ESTC R215456</idno>
+            <idno type="EEBO-CITATION">69648546</idno>
+            <idno type="OCLC">ocm 69648546</idno>
+            <idno type="VID">184868</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08586)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184868)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2878:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The sin and folly of drunkenness considered I. What it is.  II. What is vicious or sinfull in drinking (whether men will call it drunkenness or no.)  III.  What may be said against it.</title>
+                  <author>Buckler, Edward, 1610-1706.</author>
+               </titleStmt>
+               <extent>48 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Cockeril at the Three Legs in the Poultrey, over against the Stocks-Market,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in: Massachusetts Historical Society Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Temperance --  England --  Early works to 1800.</term>
+               <term>Drunkenness (Canon law) --  Early works to 1800.</term>
+               <term>Alcoholism --  Religious aspects --  Christianity --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:184868:1" rendition="simple:additions"/>
+            <p>THE SIN AND FOLLY OF <hi>Drunkenneſs</hi> CONSIDERED:</p>
+            <list>
+               <item>I. <hi>What it is.</hi>
+               </item>
+               <item>II. <hi>What is vicious or ſinfull in Drinking (whether men will call it Drunkenneſs or no.)</hi>
+               </item>
+               <item>III. <hi>What may be ſaid againſt it.</hi>
+               </item>
+            </list>
+            <p>By <hi>Edward Buckler</hi> of <hi>Bradford</hi> in <hi>Somer<g ref="char:EOLhyphen"/>ſetſhire,</hi> the Author of <hi>God All in all.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Thomas Cockeril</hi> at the <hi>three Legs</hi> in the <hi>Poultrey,</hi> over againſt the <hi>Stocks-market,</hi> 1682.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:184868:2"/>
+            <pb n="3" facs="tcp:184868:2"/>
+            <head>THE SIN and FOLLY OF DRUNKENNESS.</head>
+            <epigraph>
+               <bibl>
+                  <hi>1 PET. V. 8.</hi>
+               </bibl>
+               <q>Be ſober, be vigilant, <hi>&amp;c.</hi>
+               </q>
+            </epigraph>
+            <p>THE former part of the Chapter is ſpent in Exhortations To
+<list>
+                  <item>1. The Elders,</item>
+                  <item>2. The Younger,</item>
+                  <item>3. All. Who are preſſed</item>
+               </list> To
+<list>
+                  <item>1. Humility, <hi>v.</hi> 5, 6.</item>
+                  <item>2. A Recumbency upon God in all Conditions, <hi>v.</hi> 7.</item>
+                  <item>3. Sobriety &amp; Vigilancy in the Text.</item>
+               </list>
+            </p>
+            <p>To ſet on (which is annexed) with this Argument, <hi>For your Adverſary,</hi> &amp;c.</p>
+            <pb n="4" facs="tcp:184868:3"/>
+            <p>So the Text hath</p>
+            <p n="1">1. An Exhortation to a two-fold Du<g ref="char:EOLhyphen"/>ty, <hi>viz.</hi>
+               <list>
+                  <item>1. Sobriety.</item>
+                  <item>2. Vigilancy.</item>
+               </list>
+            </p>
+            <p n="2">2. An Argument to enforce, drawn from the Condition of the People of God (indeed of all men) in reference to the Devil, who is deſcribed by His
+<list>
+                  <item>1. Name, <hi>the Devil.</hi>
+                  </item>
+                  <item>2. Nature, <hi>your Adverſary.</hi>
+                  </item>
+                  <item>3. Practice, <hi>walks about.</hi>
+                  </item>
+                  <item>4. Induſtry, <hi>ſeeking.</hi>
+                  </item>
+                  <item>5. Aim, <hi>to devour.</hi>
+                  </item>
+                  <item>6. <hi>A comparatis, like a roaring Lion.</hi>
+                  </item>
+               </list>
+            </p>
+            <p n="1">1. Of the Exhortation, and in that of the firſt Duty, <hi>Be ſober.</hi> The word ſome<g ref="char:EOLhyphen"/>times ſignifies both the Duties that are here preſſed, to be <hi>ſober</hi> and <hi>vigilant</hi> too, as 2 <hi>Tim.</hi> 4.5. <hi>Watch thou in all things;</hi> and 1 <hi>Pet.</hi> 4.7. <hi>Watch unto Prayer:</hi> and the 1 <hi>Theſſ.</hi> 5.8. <hi>Let us who are of the day be ſober.</hi> And if we may at any time limit its ſignification to Sobriety alone, we ſeem then to do it with moſt reaſon, when another word is added which bids us <hi>watch,</hi> as there is in the Text.</p>
+            <pb n="5" facs="tcp:184868:3"/>
+            <p>
+               <hi>Be ſober,</hi> a duty of the Body as it is oppoſed unto Drunkenneſs, and of the Mind, conſiſting in Moderation; having no Warrant to reſtrain the Exhortation to any one of theſe Duties, I ſhall un<g ref="char:EOLhyphen"/>derſtand it of both, and from it lay down this Doctrine.</p>
+            <p>Doct. <hi>Sobriety both in Body and Mind is the Duty of Chriſtians.</hi> Of this in two Branches.</p>
+            <p n="1">1. Sobriety of the Body is the Duty of Chriſtians. I ſhall ſhew you,
+<list>
+                  <item>1. What it is.</item>
+                  <item>2. That it is our Duty.</item>
+               </list>
+            </p>
+            <p n="1">1. What Sobriety (as to this part of it) is, which I can by no means give you a better account of, than by calling it that Vertue which is oppoſed to what<g ref="char:EOLhyphen"/>ever is Vicious or ſinfull in the matter of Drinking. To ſhew you then
+<list>
+                  <item>1. What Drunkenneſs is; and</item>
+                  <item>2. What is Vitious, or Sinful in Drink<g ref="char:EOLhyphen"/>ing, (whether men will call it Drunken<g ref="char:EOLhyphen"/>neſs or no) will let you ſee what it is to be Sober.</item>
+               </list>
+            </p>
+            <p>
+               <hi>A.</hi> (1.) <hi>Drunkenneſs</hi> is ordinarily taken for the Privation or Loſs of the uſe of Reaſon, cauſed by immoderate and ex<g ref="char:EOLhyphen"/>ceſſive
+<pb n="6" facs="tcp:184868:4"/>Drinking. But the beſt way to find out what this Sin is, is to Judge of it by the Scripture, and there</p>
+            <p n="1">1. The height of it indeed is, to drink to the loſs of Reaſon and Underſtand<g ref="char:EOLhyphen"/>ing, that we ſpeak and do we know not what; and are not capable of ap<g ref="char:EOLhyphen"/>prehending what is ſaid or done unto us. <hi>Nabal was very drunken, wherefore his Wife told him nothing leſs or more, until the morning light:</hi> In 1. <hi>Sam.</hi> 25.36. She was a wiſe woman, and knew that a drunken husband was not capable of be<g ref="char:EOLhyphen"/>ing diſcourſed with, and therefore ſtay'd ſhe till the morning, till his reaſon return<g ref="char:EOLhyphen"/>ed, for which there was no room till the Wine was gone out of him. <hi>v.</hi> 37. So <hi>Noah,</hi> (<hi>Gen.</hi> 9.2. and <hi>Lot, Gen</hi> 19.33.) — <hi>Multa faciunt ebrij, quorum poſtea ſobrios pudet.</hi> Sen.</p>
+            <p n="2">2. 'Tis to drink to ſuch a Degree of giddineſs that we are not able to ſtand: ſo <hi>Jer.</hi> 25.27. it is made a ſign of a drunken man, to fall and to riſe no more, <hi>i. e.</hi> while his fit is upon him.</p>
+            <p n="3">3. 'Tis to drink till we reel and ſtag<g ref="char:EOLhyphen"/>ger, though we fall not: in <hi>Pſ.</hi> 107.27. <hi>They reel to and fro and ſtagger like a drunken man:</hi> And <hi>Iſa.</hi> 24.20. <hi>The
+<pb n="7" facs="tcp:184868:4"/>earth ſhall reel to and fro like a drun<g ref="char:EOLhyphen"/>kard.</hi>
+            </p>
+            <p n="4">4. 'Tis to drink unto Vomiting. <hi>Jer.</hi> 25.27. <hi>Drink and be drunken, and ſpue.</hi> And <hi>Eſa.</hi> 19.14. <hi>As a drunken man ſtag<g ref="char:EOLhyphen"/>gereth in his vomit.</hi>
+            </p>
+            <p n="5">5. 'Tis to drink to ſuch an alteration of our deportment, that we fall into an unuſual and unbecoming behaviour: 1 <hi>Sam.</hi> 1.13. <hi>Becauſe Hannah's lips moved, and her voice was not heard, Eli thought ſhe had been drunken.</hi>
+            </p>
+            <p n="2">(2.) What is vicious or ſinful in drink<g ref="char:EOLhyphen"/>ing. <hi>B.</hi>
+            </p>
+            <p n="1">1. To drink till we be inflamed, as <hi>Eſa.</hi> 5.11.</p>
+            <p n="2">2. To drink exceſſively, though we can carry it roundly away, when others lye by it, as <hi>Eſa.</hi> 5.22.</p>
+            <p n="3">3. To drink beyond the anſwering thoſe Ends which God hath ordained drink for, which we find in Scripture to be theſe:</p>
+            <p n="1">(1.) To help our weakneſs and bodily infirmities, as 1 <hi>Tim.</hi> 5.</p>
+            <p n="2">(2) To quench our thirſt: <hi>Give me I pray thee a little water to drink, for I am thirſty. Judg.</hi> 4.19.</p>
+            <p n="3">(3) To refreſh and cheer up our ſpirits: <hi>ſo doth Wine make glad the heart
+<pb n="8" facs="tcp:184868:5"/>of man, Pſal.</hi> 104.15. Hence <hi>Pro.</hi> 31.6, 7. In compliance with which, the Jews, when a Perſon was brought forth to be put to death, gave him to drink ſome Frankincenſe in a cup of Wine, that it might ſtupifie him. Whatſoever is more than this, cometh of evil, condemned by the Apoſtle under the name of Exceſs of Wine; <hi>i. e.</hi> more than enough for a<g ref="char:EOLhyphen"/>ny of thoſe ends which God created Wine to ſerve for.</p>
+            <p n="4">(4) To be acceſſary to the Exceſs of others, <hi>Hab.</hi> 2.15. <hi>Gen.</hi> 19.32.35. <hi>Lot</hi>'s daughters. So then we may not drink to the loſs of our Reaſon, nor till we cannot ſtand, or not go without reeling and ſtaggering, nor till we vomit, no nor to the alteration of our uſual deport<g ref="char:EOLhyphen"/>ment, nor till drink inflame us, nor at all exceſſively whether it inflame us or no; nor any more than will anſwer thoſe ends for which drink was ordained, nor by any means be acceſſary to the Exceſs of others.</p>
+            <p>
+               <hi>C</hi> (3.) That it is a Sin againſt.</p>
+            <list>
+               <item>1. God.</item>
+               <item>2. Our Souls.</item>
+               <item>3. Our Bodies.</item>
+               <item>4. Our Families.</item>
+               <item>5. Our Eſtates.</item>
+               <pb n="9" facs="tcp:184868:5"/>
+               <item>6. Our Neighbours.</item>
+               <item>7. The Kingdom.</item>
+               <item>8. The Church.</item>
+            </list>
+            <p n="1">(1.) Againſt God, who hath
+<list>
+                  <item>1. Commanded Sobriety;</item>
+                  <item>2. Forbidden the Contrary.</item>
+               </list>
+            </p>
+            <p n="1">1. God commands Sobriety. I ſhall lay before you two or three places of Scripture, where you ſhall find the com<g ref="char:EOLhyphen"/>mand back't with mighty Arguments to ſet it on. In 1 <hi>Theſ.</hi> 5.8. <hi>Let us who are of the day be Sober.</hi> One Argument to preſs it, is, from the ſudden coming of Chriſt to Judgment. <hi>The day of the Lord ſo cometh as a thief in the night. v.</hi> 2. Would we have our day of Death or Judgment find us in our Cups? Be drawn reaſonleſs or ſenſeleſs, reeling or vomiting from an Ale-houſe to Chriſt's Tribunal? If we would not, let us be Sober. The other Argument is taken from our Priviledges, being under the Light of the Goſpel, diſcovering unto us holyer Courſes, and engaging us to walk in them, v. 5, 6. So 1 <hi>Pet.</hi> 4.7. <hi>The end of all things is at hand, be ye therefore Sober, and Watch unto Prayer:</hi> The Argument to preſs it, is the ſame with one of the former. <hi>The end of all things is at hand;</hi> 'tis the laſt Age of the world, and how
+<pb n="10" facs="tcp:184868:6"/>long ſoever that Age may be, yet your end of all things cannot be far off, <hi>be ye therefore Sober:</hi> the Duties ye have to do, and the preparation ye are to make, will not be done at an Ale-houſe, nor by a perſon that is not himſelf. He muſt live a Sober man, that would be ſure to die ſo. And the command in 1 <hi>Pet.</hi> 5.8. back't by an Argument that may fright us into Obedience,—<hi>Be Sober, for your Adverſary the Devil, &amp;c.</hi> If thoſe that have Reaſon and Grace, have enough to do to preſerve themſelves from ſuch an enemy, how much in danger ſhall we be, when we have neither? The Apo<g ref="char:EOLhyphen"/>ſtles word of Command to Chriſtians, in their Engagements againſt the Devil is—<hi>Stand</hi>—And he commendeth to them the whole Armour of God, that <hi>having done all they may ſtand, Eph.</hi> 6.13.14. <hi>i. e.</hi> Perſevere in their Chriſti<g ref="char:EOLhyphen"/>an courſe, ſtand in a way of Faith, and in a way of Duty: in what poſture ſhall we be for this, when we cannot ſo much as ſtand upon our Leggs? Inſtead of arming our ſelves againſt the Devil, we arm the Devil againſt our ſelves, if we loſe our Sobriety. See how</p>
+            <p n="2">2. God forbids the contrary. Sometimes</p>
+            <p n="1">(1.) In moſt patheticall Expreſſions,
+<pb n="11" facs="tcp:184868:6"/>to allure us from it.—<hi>Not in rioting and drunkenneſs, Rom.</hi> 13.13. by rea<g ref="char:EOLhyphen"/>ding which Scripture St. <hi>Auguſtine</hi> is re<g ref="char:EOLhyphen"/>ported to have been converted. <hi>Be not drunk with Wine, wherein is exceſs, Eph.</hi> 5.18. Obſerve the Love and Sweetneſs that runs through theſe expreſſions: — <hi>Caſt off the works of darkneſs</hi> (amongſt which this is a very dark one indeed,) you may inſtead of it, <hi>Put on the Lord Jeſus Chriſt; Be not drunken with Wine;</hi> but is there any thing inſtead of it, where<g ref="char:EOLhyphen"/>with we may be fitted at a better rate? Yes, <hi>Be ye filled with the Spirit.</hi> And mark what the Love and Kindneſs of God would inſinuate, none but Sober perſons can put on Chriſt, neither will the Spirit of God fill any but Sober hearts. Sometimes, (2) In moſt terrifying Ex<g ref="char:EOLhyphen"/>preſſions, to fright us out of it. Such I hope you will judge all thoſe <hi>Woes</hi> that are directed againſt it by the Lord in Scripture; as <hi>Eſa.</hi> 5.11.22. and 28.1. <hi>Hab.</hi> 2.15. If you ask, what theſe Woes have in the womb of them? I cannot tell, only this we may be ſure of, that <hi>Vae minantis,</hi> a Woe of threatning, when God doth pronounce it, cannot bring forth leſs than <hi>Vae dolentis,</hi> a woe of Lamen<g ref="char:EOLhyphen"/>tation, wherever it lights. So againſt God.</p>
+            <pb n="12" facs="tcp:184868:7"/>
+            <p n="2">(2.) Againſt our own Souls, Drun<g ref="char:EOLhyphen"/>kenneſs having a miſchievous influence upon them, both (1.) Phyſically, as they are rational. (2.) Morally, as they are ſanable.</p>
+            <p n="1">(1) As they are Rational, abating the Excellency, and depriving us of the uſe of thoſe noble faculties, that the good<g ref="char:EOLhyphen"/>neſs of God hath beſtowed upon us, the Act of it turning men into very Beaſts, and a Habit of it into Fools. How little of Wiſdom, Wit, Judgment, Memory, Intention; how much of Sottiſhneſs, Non<g ref="char:EOLhyphen"/>ſence, Folly, do we ordinarily find in thoſe Brains that are ſteept in Ale? In <hi>Hoſea</hi> 4.11. <hi>Whoredom and Wine and new Wine take away the heart.</hi> The Heart you know is uſually put to ſig<g ref="char:EOLhyphen"/>nifie the whole inner man, and all the Powers of it. Theſe drunkenneſs as to their uſe and excellency, takes away, and in many perſons to ſuch a degree, that they have nothing left but their ſhapes to prove themſelves men. Much according to the Character that <hi>Demetrius</hi> gives of one of them—<hi>Ecce quadratam Statuam, habentem ſyrma, ventrem, pu<g ref="char:EOLhyphen"/>denda, et barbam.</hi> —We may ſafely add a little in the Engliſhing of it—Behold a well made Statue, having a Cloak (if
+<pb n="13" facs="tcp:184868:7"/>he have not drunk it away) a mouth, a throat, a belly and a beard; a head, a skull, but not a word of any thing within that is worth the naming. We cannot well take a nearer way to ſoak out of our Souls what<g ref="char:EOLhyphen"/>ever is ingenious or rational, than to pickle them up in drink, good parts periſhing no other way at ſuch a rate, as they do by drowning.</p>
+            <p n="2">(2.) As they are ſanable. And this it doth as
+<list>
+                  <item>1. It is Sin.</item>
+                  <item>2. It is a great Sin.</item>
+                  <item>3. Diſpoſing us to other Sins.</item>
+                  <item>4. Indiſpoſing us to Repentance.</item>
+               </list>
+            </p>
+            <p n="1">(1.) It is a ſin, a tranſgreſſion of the Law; in 1 <hi>Pet.</hi> 5.8. if there were no more—<hi>Be ſober.</hi> It's a work of the fleſh, <hi>Gal.</hi> 5.21. But other things are Sins too; be it ſo, yet the wages of every Sin is death, <hi>Rom</hi> 6.23. <hi>i. e.</hi> Hell: but this is</p>
+            <p n="2">(2.) A great Sin. So are not all, I mean in compariſon with others. You may take the altitude of it in theſe particulars: <hi>viz.</hi>
+            </p>
+            <p n="1">(1.) 'Tis a Sin againſt the very Law of Nature as well as againſt the written Law of God, being amongſt thoſe evils in which there is ſo much evil and deformity, that if there were no external Law at all againſt it, a rational nature muſt needs look upon
+<pb n="14" facs="tcp:184868:8"/>it with abhorrency. So the School-men making ſeveral ranks of natural Precepts, place General Precepts in the firſt, ſuch as are <hi>per ſe nota,</hi> as <hi>honeſtum eſt faciendum, pravum vitandum.</hi> Then Particular ones in the ſecond, and amongſt thoſe, that, <hi>videndum eſt Temperatè,</hi> We muſt live Soberly. And that inſtinct and impreſſion of nature, that hath in beaſts ſome ſimili<g ref="char:EOLhyphen"/>tude with that Law of nature that is in man, doth, we ſee, ingage them to ſobri<g ref="char:EOLhyphen"/>ety. Thoſe many Laws made by Pagans a<g ref="char:EOLhyphen"/>againſt intemperancy, muſt needs be by Di<g ref="char:EOLhyphen"/>rection from nature, having not the Scrip<g ref="char:EOLhyphen"/>ture to be guided by. Now that ſin, which doth not only break through all the reſtraints which are ſet it by the Law of God, but withall flies in the face of Na<g ref="char:EOLhyphen"/>ture and Reaſon, and beſpeaks a man leſs obedient to his Principles, than beaſts are to their's, is a great Sin. Some things are <hi>Mala quia prohibita:</hi> This is <hi>prohibi<g ref="char:EOLhyphen"/>tum quia Malum.</hi>
+            </p>
+            <p n="2">(2.) 'Tis a Sin that defaceth the Image of God in us at a rate beyond all other ſins. For whereas we all loſt in <hi>Adam</hi> the graci<g ref="char:EOLhyphen"/>ous qualities of our Souls, by this ſin we throw away the natural qualities of our Souls too. The firſt ſin took away our Ho<g ref="char:EOLhyphen"/>lineſs and Righteouſneſs, this (as if that
+<pb n="15" facs="tcp:184868:8"/>were not enough) takes away our Rea<g ref="char:EOLhyphen"/>ſon and Underſtanding alſo. But of this already.</p>
+            <p n="3">(3.) 'Tis a Sin that is by name ſet down amongſt thoſe Sins, that do exclude us from the Kingdom of God. 1 <hi>Cor.</hi> 6.10.</p>
+            <p n="3">3. It diſpoſeth us to other Sins. I ſhall (1.) Set down ſome Sins by name; (2.) Shew our diſpoſition to all Sins when we are not Sober.</p>
+            <p n="1">1. Some Sins are by name in Scripture ſet down as the ordinary effects of Drun<g ref="char:EOLhyphen"/>kenneſs, <hi>viz. ex. gra.</hi>
+            </p>
+            <p n="1">(1.) Babling, (<hi>Prov.</hi> 23.29.) When a ſwoln Tongue ſhall be ſet a running by an intoxicated brain, what loud, looſe, im<g ref="char:EOLhyphen"/>pertinent, lewd, idle and ridiculous diſ<g ref="char:EOLhyphen"/>courſes will it not tumble into? If a man had nothing elſe to do, and ſhould write down an hours diſcourſe that paſſeth be<g ref="char:EOLhyphen"/>tween half a dozen in this element; and on purpoſe to diſcover the vertue of a Tongue when 'tis tip't with Ale, ſhould read it over to them when they were So<g ref="char:EOLhyphen"/>ber, 'twould clearly be enough to turn their ſtomacks; ſuch a hotch-potch, a confuſion of witleſs, ſenceleſs, reaſonleſs, immodeſt and unhandſome ſtuff, as (except publiſht by Authors of the ſame Character) was never before extant in the world. The
+<pb n="16" facs="tcp:184868:9"/>Tongue at beſt is <hi>an unruly evil,</hi> as <hi>James</hi> 3.8. and hath need of a bridle to keep it in, as <hi>Pſal.</hi> 39.1. but Drunkenneſs gives it the rein, and ſwitch and ſpur, that this free beaſt knows not where to ſtay.</p>
+            <p n="2">(2.) Brawling and Contention. <hi>Strong drink is raging;</hi> in <hi>Prov.</hi> 20.1. and who is it that <hi>hath Contention,</hi> and <hi>wounds without cauſe,</hi> but <hi>they that tarry long at the Wine?</hi> in <hi>Pro.</hi> 23.29, 30: And that evil Servant is then ſaid to fall a beating his fellow-ſer<g ref="char:EOLhyphen"/>vants, when he began to eat and drink with the drunken, in <hi>Mat.</hi> 24.49. 'Tis an odd method methinks that men uſe, to drink and be Friends, when had they not drank, they had never faln out.</p>
+            <p n="3">(3.) Whoredom. <hi>Prov.</hi> 23.31.33. This Sin brought <hi>Lot</hi> to bed with his own daughters, in <hi>Gen.</hi> 19.33.35. St. <hi>Au<g ref="char:EOLhyphen"/>guſtine</hi> hath a ſad ſtory to this purpoſe: — <hi>Ecce hodie ebrietatem perpeſſus matrem praeg<g ref="char:EOLhyphen"/>nantem nequiter oppreſſit, Sororem violare voluit.</hi> (Ex <hi>A Lap.</hi> in <hi>Dan.</hi> 5.2.) <hi>Nun<g ref="char:EOLhyphen"/>quam putabo Ebrium eſſe castum,</hi> was <hi>Hie<g ref="char:EOLhyphen"/>rom</hi>'s cenſure, if you could ſhew him a Drunkard, he would preſently ſhew you a Whoremonger.</p>
+            <p n="4">(4.) Scorn and contempt of God, good<g ref="char:EOLhyphen"/>neſs and good men. <hi>David</hi> a man after Gods own heart, was the Song of the
+<pb n="17" facs="tcp:184868:9"/>Drunkards. (<hi>Pſal.</hi> 69.12.)</p>
+            <p n="5">(5.) Security under all theſe and their o<g ref="char:EOLhyphen"/>ther Sins; Death and Judgment never troubling their brains at all. <hi>Take heed</hi> (ſaith Chriſt) <hi>leſt at any time.</hi> &amp;c. <hi>and ſo that day come upon you unawares;</hi> in <hi>Luk.</hi> 21.34. Theſe ſins (the Spirit of God himſelf being witneſs) are the ordinary re<g ref="char:EOLhyphen"/>ſults of the ſin of Drunkenneſs.</p>
+            <p>But ſecondly, (2.) Our diſpoſition to all Sins whatſoever when we are not ſober. This will appear</p>
+            <p n="1">1. By ſome general Conſiderations.</p>
+            <p n="2">2. By a view of all the Commandments of God.</p>
+            <p n="1">1. Conſider we in general, three Things, <hi>viz.</hi>
+            </p>
+            <p n="1">(1.) The Seeds and principles of all Sins, are in our polluted natures, and as carnal and unregenerate we are capable of com<g ref="char:EOLhyphen"/>mitting them. Whatever hath been in any mans practice, is by nature in every mans boſom. As the plot of all diſeaſes lies in the humors of the body, ſo the ſeeds of all Sins in the Corruptions of the Soul. None I think will deny, but that every prohibiti<g ref="char:EOLhyphen"/>on of any kind of Sin which we have in Scripture, belongs to all, be it Sodomy, Inceſt, Blaſphemy, <hi>&amp;c.</hi> A ſufficient Argu<g ref="char:EOLhyphen"/>ment that every mans nature is ſubject to it.</p>
+            <pb n="18" facs="tcp:184868:10"/>
+            <p n="2">(2.) That theſe Luſts do not actually break out into all the Sins that they are big with, is from ſome reſtraint or other that is laid upon us, when by ſhame, or fear, or natural Conſcience, or the like, our corruptions are rein'd in. If water or any other heavy body doth not at any time move down-ward, 'tis not becauſe it hath not a natural inclination ſo to do, but be<g ref="char:EOLhyphen"/>cauſe ſomething or other hinders it.</p>
+            <p n="3">(3). Drunkenneſs throws all theſe re<g ref="char:EOLhyphen"/>ſtraints off. Shame is, <hi>rei turpiter actae.</hi> And what ſeems unſeemly to a man that cannot diſcern between good and evil? He that being Sober is not aſhamed to be drunk, how ſhould he being drunk, be aſha<g ref="char:EOLhyphen"/>med of any thing? That is, he that be<g ref="char:EOLhyphen"/>ing a Man is not aſhamed to turn him<g ref="char:EOLhyphen"/>ſelf into a Swine, how ſhould he being a Swine be aſhamed to wallow in the mire? Fear ariſeth from the apprehenſion of ſome evil likely to fall upon us; there ariſeth from too much drink, too thick a vapour to ſee any ſuch thing. <hi>In praelia trudit inermem.</hi> 'Twill put a man up<g ref="char:EOLhyphen"/>on any thing without fear or wit. And as for Conſcience, that is, <hi>cum ſcientia,</hi> which is no more (if ſo much) em<g ref="char:EOLhyphen"/>ployed in a Drunkard thô he be awake, than in a Sober perſon when he is aſleep.
+<pb n="19" facs="tcp:184868:10"/>'Tis a practical Syllogiſm, which a man in that Condition is as good at, as an Aſſe is to play a Leſſon upon the Harp.</p>
+            <p n="2">2. View all the Commandments of God, and ſee which of them it is that a Drunk<g ref="char:EOLhyphen"/>ard is not diſpoſed to tranſgreſs. For the</p>
+            <p n="1">1. <hi>Precept,</hi> forbidding us to have any other Gods but one, againſt which we ſin, when what is due to God we beſtow upon any thing elſe: and ſo the Drink, the Throat, the Belly, the Companions of a Drunkard, are his Gods, theſe have his Af<g ref="char:EOLhyphen"/>fections, his Time, his Eſtate; theſe he ſacrificeth to, and ſerveth and loves with all his heart, with all his ſoul, with all his mind, and with all his ſtrength. Yea, which is more groſs, ſet up an Idol of what ſtuff you will, and what will ſooner qualifie a perſon for the worſhip of it, than drink will? In <hi>Hoſea</hi> 4.11. you have the people given to Drunkenneſs, and ſee what follows in <hi>v.</hi> 12, 13.</p>
+            <p n="2">2. <hi>Precept,</hi> forbidding Will-worſhip and Superſtition. Are any in the world more inclined to this than perſons of looſe, lewd licentious, and drunken principles? Thoſe that care not whether they ſerve God at all, or not, are not wont to be over-ſcrupulous, how they ſerve him. For the</p>
+            <p n="3">3. <hi>Precept,</hi> how many common drunk<g ref="char:EOLhyphen"/>ards
+<pb n="20" facs="tcp:184868:11"/>do you know in the world, that are not withall common Swearers? Their throat indeed is ordinarily a thorow-fare for Ale and Oaths, where Almighty God, and his very good Creatures are abuſed by turns. And of this let Experience be Judge. For the</p>
+            <p n="4">4. <hi>Precept.</hi> When perſons given to this vice are at Liberty, this day is pitcht upon to chuſe. It is obſerved in one of our Homilies, that upon the Lords day the Devil was more ſerved and God more diſ<g ref="char:EOLhyphen"/>honoured than upon all the week beſides: which ſome Synods have taken notice of, and complained againſt, deſiring the Ma<g ref="char:EOLhyphen"/>giſtrate that Games and Drinking-matches upon that day might be reſtrained: (<hi>Heylin Hiſt: Sab.</hi> part 2. C. 6.)</p>
+            <p n="5">5. <hi>Precept.</hi> Can drunken Superiours or Inferiors diſcharge the Duties they owe one to another? Pray, what Duty is it in Parents, Husbands, Maſters, Miniſters, Magiſtrates, Children, Wives, Servants, People that drink doth qualifie them for? Yea, what ſin as to theſe Relations, that it is not ready to put them upon? It makes Parents grievous, and Children rebellious, the Husband like a Lion, and the Wife like a Sow, Maſters intolerable, Servants uſe<g ref="char:EOLhyphen"/>leſs, Miniſters odious, ſottiſh, and able
+<pb n="21" facs="tcp:184868:11"/>to do no good, and the People as un<g ref="char:EOLhyphen"/>able to retain any; Magiſtrates not able to bear the Sword: how ſhould they, when they are not able to bear them<g ref="char:EOLhyphen"/>ſelves? And the People under them loſt to all good order.</p>
+            <p n="6">6. <hi>Precept.</hi> How many Murders have been committed by men in their Drunken<g ref="char:EOLhyphen"/>neſs? <hi>Auguſtine</hi> reports of one that killed his own Father and mortally wounded two of his own Siſters. (<hi>A Lap.</hi> in <hi>Dan.</hi> 5.2.) <hi>Alexander</hi> in a drunken fit killed <hi>Clytus</hi> his moſt familiar Friend. As for modern inſtances of Blood and Ale mingled toge<g ref="char:EOLhyphen"/>ther, there be but too many.</p>
+            <p n="7">7. <hi>Precept.</hi> How prone we are, being overcome with drink, to be overcome of Luſt, you heard before.</p>
+            <p n="8">8. <hi>Precept,</hi> requireth an endeavour by all Juſt and lawful means to procure, pre<g ref="char:EOLhyphen"/>ſerve and further the wealth and outward eſtate of our ſelves and others, and forbids whatever courſes may tend to the contra<g ref="char:EOLhyphen"/>ry. He hat doubts whether Drunkenneſs be a breach of this Commandment, is hard<g ref="char:EOLhyphen"/>ly Sober. But more of this afterwards.</p>
+            <p n="9">9. <hi>Precept.</hi> I Shall reckon up ſome of thoſe ſins that are againſt this Commandment, and let any man that is out of his Liquor call to mind, whether he hath not been or<g ref="char:EOLhyphen"/>dinarily
+<pb n="22" facs="tcp:184868:12"/>guilty of them when he was in it. <hi>viz.</hi> Lying, Slandering, Backbiting, De<g ref="char:EOLhyphen"/>tracting, Whiſpering, Scoffing, Reviling, raſh Cenſuring, <hi>&amp;c.</hi> and whatever is inju<g ref="char:EOLhyphen"/>rious to the good name of our Neighbours. And for the</p>
+            <p n="10">10. <hi>Precept;</hi> It forbiddeth all inordi<g ref="char:EOLhyphen"/>nate luſtings and motions of the heart; which exceſs of drink is known to in<g ref="char:EOLhyphen"/>flame and ſtir up in us as much as any thing. Add hereunto, that every Precept commanding any Duty, commands with<g ref="char:EOLhyphen"/>all that we uſe the means and helps that may further us in it. Drunkenneſs makes us unfit to uſe any. And every precept forbidding any ſin, forbids withall the means temptations and occaſions that may put us upon it; and Drunkenneſs putteth us under an incapacity of avoiding other means of ſinning, and is withall a prin<g ref="char:EOLhyphen"/>cipal means it ſelf; and ſo becomes not ſo much a tranſgreſſion of this or that particular Precept, as a general violation of the whole Law.—</p>
+            <p>So (3.) is Drunkenneſs a ſin that doth diſpoſe us to all other Sins. And</p>
+            <p n="4">(4.) Doth indiſpoſe us to Repentance. As to the Act of Drunkenneſs, I think no body will queſtion it; a habit of it puts a perſon under a very great indiſpo<g ref="char:EOLhyphen"/>ſedneſs
+<pb n="23" facs="tcp:184868:12"/>to repent, and turn from his ſins unto God. For</p>
+            <p n="1">(1.) 'Tis a beſotting Sin, as you heard before, abating our Intellectuals at a ſad rate, and ſo rendring us the more uncapa<g ref="char:EOLhyphen"/>ble of apprehending what the Word of God doth preſs us with in order to our Con<g ref="char:EOLhyphen"/>verſion; and when a ſottiſhneſs is volunta<g ref="char:EOLhyphen"/>rily contracted, and contracted by ſo ſwiniſh a Sin as this, how Juſtly may the Lord be provoked never to cure it? But</p>
+            <p n="2">(2.) 'Tis a Sin that works us up to an high degree of Security under it ſelf and the reſt of our ſins, as you alſo heard from <hi>Luke</hi> 21.34. And ſo the Word of God leaves no impreſſion upon us. E<g ref="char:EOLhyphen"/>ternity of torments in Hell, with all the fire and brimſtone that the Scripture ſpeaks of, either come not near our Conſcien<g ref="char:EOLhyphen"/>ces at all, or if they do, are ſoon quencht and put out again with a cup of Ale. How many men be there, that the greateſt part of their lives have been divided (I will not ſay equally) between Hearing and Drinking, Sermons and Ale-houſes, and yet continue to be ſo to this day! And whence is this, but that they leave all they hear behind them, or are able to drown it preſently in the bottom of a Tub. How many times have we heard
+<pb n="24" facs="tcp:184868:13"/>that Drunkards are by name amongſt them that ſhall not inherit the Kingdom of God? That he that believeth not ſhall be damned, that repenteth not ſhall periſh, <hi>&amp;c.</hi> and yet neither Sobriety, nor Faith, nor Repentance, never came ſeriouſly into our thoughts? Into ſo deep a ſleep as well of the Mind as of the Body doth this Sin lull us.</p>
+            <p n="3">(3.) 'Tis a perſevering Sin, having a certain kind of Witchcraft in it, inticing us not to give it over; when we have drunk our ſelves aſleep, as ſoon as we <hi>awake we will ſeek it yet again,</hi> as <hi>Prov.</hi> 23.35. The Spirit of God that knows very well our diſpoſition, makes this our Language, in <hi>Eſa.</hi> 56.12. <hi>Come,</hi> &amp;c. It is a Sin that many Perſons go reeling under the guilt of to their very grave, and 'tis grown into an Argument for the Innocency of it, at leaſt as to mens health, that there be more old Drunkards than Phyſitians. I have read of four old men, that undertook to drink each of them as many boles as they had lived years; and according<g ref="char:EOLhyphen"/>ly the youngeſt of them took off 58. the ſecond 63. the third 87. and the oldeſt of all 92. (<hi>Berclay, Sum: Bon.</hi> P. 33.) Thoſe Sins that we are ſo indiſpoſed to forſake, do mightily indiſpoſe us to
+<pb n="25" facs="tcp:184868:13"/>Repentance, a great part of which Duty is to leave and abhorre the Sins we repent of. Judge then if Sobriety be not a Du<g ref="char:EOLhyphen"/>ty that we owe to our Souls, and Drun<g ref="char:EOLhyphen"/>kenneſs a Sin againſt them.</p>
+            <p n="3">(3.) Againſt our Bodies, the health and Life of which we are bound to endeavour the preſervation of, and to do nothing that may bring diſeaſes or death upon us, unleſs we would be guilty of ſelf-Murder: Diſeaſes that are the ordinary effects of Drunkenneſs Phyſitians tell us are ſuch as theſe; Crudities, Oppitations; but we need name none in particular, when they tell us that it Strangles Nature, and per<g ref="char:EOLhyphen"/>verts the whole temperature of the body. How many examples have we of this and that diſeaſe contracted by Drunkenneſs! <hi>Cleomenes</hi> the <hi>Lacedemonian, ad inſaniam redactus eſt,</hi> was brought by it to a Frenzie and madneſs; <hi>Lacydes</hi> the Philoſopher to a Palſie; <hi>Agro</hi> a King to a mortal Plurifie; <hi>Ennius</hi> the Poet to the Gout, <hi>&amp;c.</hi> And many examples have we of Death in the Pot, I mean of perſons ſlain by their Drun<g ref="char:EOLhyphen"/>kenneſs, or in it.</p>
+            <p n="1">(1.) By it, Drink and Vengance being their onely executioners. <hi>Anacreon</hi> the Poet, <hi>Dum liberius indulgeret,</hi> was choak't. <hi>Arteſilas</hi> the Philoſopher, <hi>cum vinum im<g ref="char:EOLhyphen"/>moderatè
+<pb n="26" facs="tcp:184868:14"/>bibiſſet, obiit. Attila à vino ple<g ref="char:EOLhyphen"/>nus, ſuffocatus, &amp; ſubito mortuus eſt. Proma<g ref="char:EOLhyphen"/>chus</hi> the <hi>Macedonian</hi> drank at ſuch a rate, that <hi>Alexander</hi> gave him a talent for his la<g ref="char:EOLhyphen"/>bour. <hi>Sed triduo tantum ſupervixit:</hi> He died within three dayes after.</p>
+            <p n="2">(2.) In it, as <hi>Elah</hi> King of <hi>Iſrael,</hi> 1 <hi>Kings</hi> 16.9. <hi>Amnon,</hi> 2 <hi>Sam.</hi> 13.28, 29. The <hi>Philiſtines,</hi> as <hi>Judg.</hi> 16.25.30. Three fellowes in <hi>Germany,</hi> after they had taken in their Cups after the brutiſh manner of that Countrey, were the next morning found ſtrangled and dead, and ſo were buried un<g ref="char:EOLhyphen"/>der the <hi>Gallows. (Bercley, Sum. Bon. P.</hi> 26.) <hi>Bonoſus</hi> a Drunken Emperour hang'd himſelf, of whom it was ſaid, Not a man hang'd up but a Barrel, (<hi>Theat.</hi> 804.) So<g ref="char:EOLhyphen"/>briety is then a Duty that we owe (3.) To our Bodies: and</p>
+            <p n="4">(4.) Againſt our Families, every part of them. <hi>Ex. gr.</hi>
+            </p>
+            <p n="1">(1.) Againſt our Parents. Our Fathers did not beget us, our Mothers did not bear us ten months in their wombs, and twenty in their Arms, to qualifie us for an Ale-houſe; they did not wake for us, and work for us, and care for us, and pray for us, and do thoſe Offices which they would have loathed to do for any others, nor breed us and provide for us, that we
+<pb facs="tcp:184868:14"/>ſhould ſo requite them, to grieve their hearts, and make them weary of their lives, and give them cauſe to wiſh that we had never been born. A Sin it is ly<g ref="char:EOLhyphen"/>ing ſo heavy upon the Spirits of Parents, that the Law of God did heretofore in pity provide them a way to be rid of ſuch Children. See <hi>Deut.</hi> 21.19, 20, 21. An inſupportable croſs muſt it needs be that can prevail with parents to ſeek the death of their Children; yet this it ſeems was ſuppoſed enough to do it, it being better to ſee them once buried than ſo often drowned, for when they are in their graves they know the worſt of them.</p>
+            <p n="2">(2.) Wives, who were very ill-adviſed if their purpoſe was not to be married to Men, and not unto Beaſts? Doth not Drunkenneſs waſte their goods, as well as our own; make their lives bitter; ex<g ref="char:EOLhyphen"/>poſe them to Temptations; render our Society at leaſt not deſirable? Can we dwell with them according to knowledge, when we have loſt our underſtanding? Pray for them and inſtruct them when we are not able to ſpeak? govern them when we cannot govern our ſelves? give them honour as weaker veſſels, when we have degraded our ſelves into much weaker? Not to mention thoſe abuſes that we are
+<pb facs="tcp:184868:15"/>very apt to offer even unto our own fleſh, when we have loſt our Sobriety.</p>
+            <p n="3">(3.) Againſt our Children, whoſe food and raiment and education contributes to to make up every drunken reckoning that we have a ſhare in; beſides that migh<g ref="char:EOLhyphen"/>ty abomination of Example that we ſet before them; Children being extreamly apt to imitate their Parents. How many have inſtead of laying up for their Chil<g ref="char:EOLhyphen"/>dren, drunk up from them what the good Providence of God had bountifully provi<g ref="char:EOLhyphen"/>ded, employing all their husbandry in turn<g ref="char:EOLhyphen"/>ing whatever they have into Ale, and lea<g ref="char:EOLhyphen"/>ving their Poſterity to ſeek their bread out of deſolate places!</p>
+            <p>Sobriety is a Dvty we owe (4.) To our Families; and</p>
+            <p n="5">(5.) Againſt our Eſtates. <hi>He that lo<g ref="char:EOLhyphen"/>veth Wine ſhall not be rich. (Prov.</hi> 21-17.) That perhaps is no great matter, but <hi>the drunkard and the Glutton ſhall come to poverty;</hi> and <hi>drowzineſs ſhall cloath a man with rags,</hi> in <hi>Prov.</hi> 23.21. But it is clear<g ref="char:EOLhyphen"/>ly our Duty to be providently careful to get and keep thoſe things that are neceſſa<g ref="char:EOLhyphen"/>ry and convenient for the ſuſtentation of our nature, and ſuitable to our condition. See <hi>Pro.</hi> 27.23. <hi>ad finem.</hi> Now is not daily ſacrificing and the offering up of
+<pb n="29" facs="tcp:184868:15"/>drink-offerings to an inſatiable throat, the way to any ſuch thing.</p>
+            <p n="6">(6.) Againſt our Neighbours, to whom in our drunken fits we are very ready to be injurious many wayes.</p>
+            <p n="1">(1.) To intice them to the ſame Sin. Men that are of eaſie and Ductile natures, upon whom there is any probability of pre<g ref="char:EOLhyphen"/>vailing, can hardly follow their callings in quietneſs for ſolicitations of this nature. A man going to be drunk is like a man ready to be drowned, who will catch hold of any one that is next him, that if it be poſſible they may ſink together. Drunk<g ref="char:EOLhyphen"/>ards and good Fellows would not ſo pro<g ref="char:EOLhyphen"/>perly be two names of the ſame perſons, were it a Sin that is ordinarily committed by one alone. And that handſomer notion of Company-keeping under which it is wont to paſs, would not be a language ſo eaſily underſtood.</p>
+            <p n="2">(2.) Whom are not our Tongues in ſuch a caſe ready to fall upon, in Lies, Rail<g ref="char:EOLhyphen"/>ing, Slanders, and what not? I have read of a young man, being invited to an entertainment, ſpake very freely againſt the Biſhop, for which being afterwards queſtioned, made only this reply, That if he ſhould be in the ſame condition again, he thought he ſhould fall about the ears of
+<pb n="30" facs="tcp:184868:16"/>the twelve Apoſtles themſelves, in caſe they came in his way. (<hi>Theat. P.</hi> 804.) <hi>David</hi> ſpeaks of ſome <hi>wicked</hi> men, that <hi>their tongue goeth through the earth. Pſal.</hi> 73.9. Our's are never fitted to travel at ſuch a rate, as when we are able to move them freely in our mouths; when we are leaſt able to go, they are readieſt to run, and to run de<g ref="char:EOLhyphen"/>ſcant upon whomſoever they pleaſe. One is a <hi>fool,</hi> another a <hi>knave;</hi> one <hi>covetous,</hi> another <hi>proud,</hi> every one is any thing that they pleaſe to ſtyle him. One broacheth the cenſure, another ſwears 'tis true, a third drinks upon it to confirm it. This is the ordinary diſcipline of an Ale-Houſe, where being ſate at Bench, they take upon them to Judge the world.</p>
+            <p n="3">(3.) To the ſoberer ſort of people our Debauchedneſs is a continual offence; we fetch tears from their eyes, and ſend grief to their hearts, and if we come near them, do even ſtink in their noſtrils. Sobriety is a Duty we owe (6.) to our Neighbours.</p>
+            <p n="7">(7.) Againſt the Kingdom, rendring us uſeleſs in our ſeveral ſtations for the publick good. Drunkenneſs</p>
+            <p n="1">(1.) Poſitively is the occaſion of much evil.</p>
+            <p n="2">(2.) Negatively, doth altogether un<g ref="char:EOLhyphen"/>fit us for the doing of any good.</p>
+            <pb n="31" facs="tcp:184868:16"/>
+            <p n="1">(1.) Is the occaſion of much evil; I mean of ſuffering, being it ſelf ſo great an evil of Sin; calling down the Judgments of God upon a whole Kingdom, and in par<g ref="char:EOLhyphen"/>ticular a ſcarcity of thoſe Creatures which are abuſed; in <hi>Eſay</hi> 5.11, 12. the Sin, <hi>v.</hi> 13. the Judgment, in <hi>Joel</hi> 1.5.10, 11, 12. So we devour the plenty, and ſwallow down the neceſſary proviſions of a whole Kingdom.</p>
+            <p n="2">(2.) It unfits us for the doing of any good, for Counſel, or Action, in Peace, or War, in a private Capacity, or a Pub<g ref="char:EOLhyphen"/>lick, to make Laws, or to execute, or to keep them. Whether the mind, or the body, the head, or the hand, be to be employed, we have not the uſe of either to any purpoſe. If we be Rulers, miſerable is the condition of thoſe that be under us; as <hi>Eccleſ.</hi> 10.16, 17. <hi>Woe, &amp;c. Prov.</hi> 31.4, 5. If we be private perſons, no man that is wiſe and good will have any Society with us. <hi>Cato</hi> the Elder being ask't why he rejected the Acquaintance of a Drunk<g ref="char:EOLhyphen"/>ard that did earneſtly deſire it, <hi>Becauſe,</hi> ſaith he, <hi>Vivere non poſſum cum eo, qui melius et ſubtilius Palato quam Corde ſentit.</hi> I cannot live with one who hath more Senſe in his Throat, than in his Heart, or his Head; who is good at nothing but
+<pb n="32" facs="tcp:184868:17"/>at Swallowing, and is ever waſhing down his Brains into his Belly. Sobriety is a Duty we owe.</p>
+            <p n="8">(8.) Againſt the Church, Drunkenneſs being a Scandal to the Goſpel, an Offence to ſuch as deſire to live ſoberly, righteouſ<g ref="char:EOLhyphen"/>ly and godly in this preſent World. And the Perſon guilty ſo odious a member (if he muſt needs paſs for one) that Chriſtians are commanded not to eat with him, 1 <hi>Cor.</hi> 5, 11. But are enjoyned to put away from among themſelves ſuch a wicked perſon, <hi>v.</hi> 13. You ſee I hope by this time, that Sobriety is the Duty of Chriſtians.</p>
+            <p>See now how little reaſon men have as to Conſcience and Duty, to put it to the Queſtion, whether they be Drunk; To call for Proofs that they are, and urge Ar<g ref="char:EOLhyphen"/>guments that they are not; that they are able to give a man an anſwer; if they lie in the High-way, are able to hold up their hands if a Cart be like to be driven over them, <hi>&amp;c.</hi> The queſtion ſhould be, Whe<g ref="char:EOLhyphen"/>ther we be Sober? That is our Duty. Whether we have not drunk more than would have anſwered thoſe Ends which God ordained Drink for? If we have, 'tis no matter, whether the Laws, or Cuſtom of men call it Drunkenneſs or no; we have made a breach upon Sobriety, and ſo have
+<pb n="33" facs="tcp:184868:17"/>failed in a great Duty. It is exceſſive and needleſs Drinking that is the Sin, the di<g ref="char:EOLhyphen"/>ſtemper that ordinarily follows is part of the Puniſhment. There is not only a <hi>Woe to the Drunkards of Ephraim,</hi> (<hi>Eſa.</hi> 28.1.) but alſo a <hi>Woe to them that are mighty to drink Wine,</hi> &amp;c. (<hi>Eſa.</hi> 5.22.) There be ſome able to carry Drink at a noble rate, and yet come not behind thoſe in the Sin of Drinking who with a great deal leſs lie wallowing in their Vomit. I have read of one <hi>Aeraclides,</hi> who would invite one com<g ref="char:EOLhyphen"/>pany to Breakfaſt, another to Dinner, a third to Supper, <hi>quibus omnibus ſine interſti<g ref="char:EOLhyphen"/>tio ſufficiebat ſolus,</hi> and hold out in this ex<g ref="char:EOLhyphen"/>erciſe with them all. (<hi>Theat.</hi> 801.) And of <hi>Cleio</hi> a woman, who was not only able to out-drink thoſe of her own Sex, but men too; <hi>Omnes ſuperavit:</hi> She conquered all that ſhe encountred. <hi>Ibid.</hi> And of <hi>Piſo,</hi> that ſate in the Court of <hi>Tiberius</hi> two dayes and two nights drinking continually, and never ſtirred from the place: Of <hi>Nivellius Torquatus,</hi> who was Knighted by <hi>Tiberius</hi> for drinking three Gallons of Wine at one draught. And how much ſoever he drank, was never known at any time to falter with his Tongue, never eaſed himſelf by Vomiting: (<hi>Hakwell Apol. p.</hi> 413.) The Lord <hi>Burghly</hi> in ſome precepts to his Son,
+<pb n="34" facs="tcp:184868:18"/>tells him, That he never heard other com<g ref="char:EOLhyphen"/>mendation aſcribed to a Drunkard, than the well bearing of his Drink, which he thinks is fitter for a Brewers Horſe, or a Dray-mans back. Let Chriſtians remem<g ref="char:EOLhyphen"/>ber, that it is their Duty not to be Drunk, but to be Sober.</p>
+            <p>Condemn we therefore their Practice who are at any time guilty of tranſgreſſing the Limits of Sobriety, either in their Per<g ref="char:EOLhyphen"/>ſons, or acceſſary to it in other men: And acceſſaries we may juſtly account all theſe that follow, <hi>viz.</hi>
+            </p>
+            <p n="1">(1.) All keepers of houſes of Entertain<g ref="char:EOLhyphen"/>ment, that knowingly ſuffer it, promote it, get that Employment on purpoſe for it.</p>
+            <p n="1">(1.) That knowingly ſuffer it: moſt of which ſort of People will let men have as much as they will, ſcarce any that will not give them more than they ought, provi<g ref="char:EOLhyphen"/>ded they pay for it. <hi>Qui non vetat peccare, cum poſſit, jubet.</hi>
+            </p>
+            <p n="2">(2.) That promote it: who will uſe twenty devices to draw men on, and a<g ref="char:EOLhyphen"/>mongſt the reſt, rather be drunk themſelves than ſuffer their Gueſts to be Sober, to en<g ref="char:EOLhyphen"/>creaſe their Reckoning.</p>
+            <p n="3">(3.) That procure for themſelves this Employment of ſet putpoſe: which all thoſe muſt needs be interpreted to do, who
+<pb n="35" facs="tcp:184868:18"/>are not able to ſhew any other end that may be propounded. The beſt that can be ſaid is, that 'tis to get a Livelihood in the World; ſo may Thieves that rob upon the High-way, ſo may common Strumpets, that proſtitute themſelves to every comer, ſay, 'tis to get their Living. He that wills the end, wills the means; and he that pitches upon a ſinful means when many lawful ones are before him, chuſeth ſin, and in our caſe makes a Trade of that which I am ſure can never be a Calling.</p>
+            <p n="2">(2.) All Magiſtrates that are guilty in ei<g ref="char:EOLhyphen"/>ther of theſe three Caſes, <hi>viz.</hi>
+            </p>
+            <p n="1">(1.) Of Licenſing Ale-houſes that be needleſs, which is to make proviſion for the Sin of Drunkenneſs, to fulfill the Luſts thereof: and leſt Sobriety ſhould be too troubleſome a Burden, to provide men of opportunities how and where to be rid of it.</p>
+            <p n="2">(2.) Of not Suppreſſing thoſe that Li<g ref="char:EOLhyphen"/>cenſe themſelves, and of not puniſhing thoſe that are diſorderly, and diſcounte<g ref="char:EOLhyphen"/>nancing their proſecutors, rendring it (as a godly man long ſince expreſſed it) as dif<g ref="char:EOLhyphen"/>ficult and hot a Service to put down an Ale<g ref="char:EOLhyphen"/>houſe as to take <hi>Fluſhing.</hi>
+            </p>
+            <p n="3">(3.) Of not Executing the Laws upon Delinquents in point of Tipling: ten Groats every time, for Tipling in an Ale houſe,
+<pb n="36" facs="tcp:184868:19"/>and five Shillings for being drunk, would either make men much the Soberer, or not ſuffer them to be otherwiſe at ſo cheap a rate.</p>
+            <p n="3">(3.) All thoſe that encourage the Sin of Drunkenneſs: and this is done more wayes than one, <hi>viz.</hi>
+            </p>
+            <p n="1">(1.) By Commending the Sin it ſelf as very good; in ſome caſes for the Body, but for the mind 'tis <hi>Cos Ingenij,</hi> the Whetſtone of Wit, a raiſer of Mens Parts, a great con<g ref="char:EOLhyphen"/>tributer to Eloquence, Invention, Ingenui<g ref="char:EOLhyphen"/>ty, and what not? No Wit reliſhing at a<g ref="char:EOLhyphen"/>ny excellent rate, nor at all well dreſs'd, un<g ref="char:EOLhyphen"/>leſs it be parboyl'd in Ale. <hi>Poſſum nil ego Sobrius, bibenti ſuccurrunt mihi quindecim Poetae:</hi> ſaid <hi>Martial</hi> of himſelf, (<hi>L.</hi> 11. <hi>Epig.</hi> 7.) He was no body when he was So<g ref="char:EOLhyphen"/>ber, but Drunk, at leaſt 15 Poets ſtrong.
+<q>
+                  <l>Ennius ipſe Pater nunquam niſi potus ad Arma</l>
+                  <l>Proſiluit dicenda,—&amp;c.</l> 
+                  <bibl>
+                     <hi>Theat. 803.</hi>
+                  </bibl>
+               </q> Old <hi>Ennius</hi> never ſet himſelf to making of Verſes, till he was in his Cups. <hi>Foecundi Calices,</hi> &amp;c. It makes men eloquent by no allowance. <hi>In Proelia trudit inermem.</hi> Va<g ref="char:EOLhyphen"/>liant beyond meaſure; indeed, <hi>effieit egre<g ref="char:EOLhyphen"/>gios,</hi> &amp;c. It qualifies men for any thing, I know not how many thouſand Leagues beyond Sobriety. If this be true, it doubtleſs concerns only thoſe men whoſe Souls are
+<pb n="37" facs="tcp:184868:19"/>in their Bellies, and whoſe abilities muſt be barrell'd up for fear of ſpoiling, and broacht when they have occaſion to uſe them.</p>
+            <p n="2">(2.) By propounding to and beſtowing Rewards upon men for the excellent faculty they have in Drinking. <hi>Alexander potandi Vinum Certamen inſtituit;</hi> amongſt other worthy exerciſes, appointed a drinking Match, wherein the Conquerour was to have a Talent, the ſecond man 30 <hi>l.</hi> and the third 10 <hi>l. Mithridates</hi> King of <hi>Pontus, proemia plus haurientibus proponebat. Tiberius</hi> advanced <hi>Piſo</hi> to the Provoſtſhip of the Ci<g ref="char:EOLhyphen"/>ty, and <hi>Pomponius</hi> to the Preſidentſhip of <hi>Syria,</hi> for the great gift they had in exceſ<g ref="char:EOLhyphen"/>ſive quaffing: (<hi>Hackw. Apolog.</hi> 419.) If no ſuch Examples can be found amongſt Chriſtians, 'tis ſo much the better.</p>
+            <p n="3">(3.) By countenancing thoſe lewd and debauched perſons that are guilty of this Sin, when we give them at leaſt an equal Reſpect with other men; when we give them as many good words, afford them as much of our Society, report them to be as honeſt men as any others.</p>
+            <p n="4">(4.) All thoſe that engage and provoke others to that Exceſs which otherwiſe they would not run into; as by any means to ſee themſelves pledged, to have ſuch Quanti<g ref="char:EOLhyphen"/>ties
+<pb n="38" facs="tcp:184868:20"/>and to ſuch a number drunk up, to look upon it as a Soloeciſm to make a dry bar<g ref="char:EOLhyphen"/>gain, or to conclude it any where but in an Ale-houſe, which many times makes it a great queſtion whether there be more of the Beaſt-market without doors or within: to make drink upon all occaſions the com<g ref="char:EOLhyphen"/>mon Entertainment one of another, upon no greater reaſon, as I know, than to make it of Bread, or Money, or good Counſel, or Phyſick, or a Bed to ſleep upon, of ei<g ref="char:EOLhyphen"/>ther of which we may have as much need as we have of Drink. And above all, this is done by that Heatheniſh Cuſtom of drink<g ref="char:EOLhyphen"/>ing Health to a dear Friend, a great Per<g ref="char:EOLhyphen"/>ſon, to the Prince himſelf, which many Perſons think they ought not to refuſe upon pain of forfeiting their Allegiance: a moſt reaſonleſs and ridiculous Practice. What in<g ref="char:EOLhyphen"/>fluence hath my drinking upon another mans health? May I not as ſoon eat, or ſleep, or talk, or dig, or threſh, or buy, or ſell his Health as drink it? or is he a jot more concerned in the one than in the other? yea if immoderate and needleſs bibbing be (as it is) a ſin, how much more unlawful is it to ſwear, or curſe, or lie, or ſteal a health to a friend, than 'tis to drink it? I called it a Hea<g ref="char:EOLhyphen"/>theniſh Practice, and ſo it is, and moſt of the reſt but now mentioned. The Pagans had
+<pb n="39" facs="tcp:184868:20"/>their <hi>Arbitrum bibendi,</hi> their Maſter of Miſrule at their drunken meetings, whoſe office it was to give orders how long, and how much every one muſt drink; they were wont to throw the Die, and to drink according to their Caſts, to drink ſo many Healths as there were Letters in their Mi<g ref="char:EOLhyphen"/>ſtreſſes names. (<hi>Hakw. Apol.</hi> 410.)</p>
+            <p>The Drunken <hi>Greeks, Deos &amp; Amicos in<g ref="char:EOLhyphen"/>ter pocula ſalutant, nominatim<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> appellant evacuato Poculo:</hi> Drank whole ones as Healths to their Idols, and to their Friends, making mention of them by name, and ha<g ref="char:EOLhyphen"/>ving drunk to any one, took care to have a full Cup delivered him; and would be ſure to look to his Liquor. The <hi>Lacedaemonians, eundem Calicem circumagebant</hi>—would have the ſame Cup go round. (<hi>Theat.</hi> 800.) You ſee whoſe Copy we write after; not a word of any ſuch Practice in <hi>Abraham, Iſa<g ref="char:EOLhyphen"/>ac,</hi> or <hi>Jacob,</hi> in Chriſt, <hi>Peter,</hi> or any Saint of God recorded in Scripture—Declined indeed by all grave and prudent Perſons, who will pray for their Friends Health, but drink only for their own.</p>
+            <p>Let us for a Concluſion, <hi>ſtudy to be Sober.</hi> By way of Motive, let me have leave to preſs you with what we have ſaid already. Conſider it then</p>
+            <p n="1">(1.) As it is a Duty we owe unto God.
+<pb n="40" facs="tcp:184868:21"/>Doth that nothing prevail with us? who is it that made us, and preſerveth us, and giveth us Life, and Breath, and all things? who ſpares us, and keeps us out of Hell? whoſe Patience, and Bounty, and goodneſs do we ſpend upon every day? Is there no Grace, no Gratitude, no good Nature in us, to comply with the God of all our mercies? or if there be not, is not he that denounceth ſo many Woes againſt the contrary Sin, able to bring them all upon our heads? Is he not a <hi>conſuming fire, a great God</hi> and <hi>a terrible?</hi> And ſhall we no more regard the Power of his wrath? or do we think to wet our ſelves at ſuch a rate, that the flames of Hell ſhall not take upon us? Whatever it be, if it be a Duty we owe to God, we are bound to diſcharge it. How many more Engagements to ſuch a Duty as this is? we ought to obey ſhould God command us with <hi>Abraham</hi> to ſacrifice an only Son; ſhall we ſtick at the ſacrifice of a ſtinking Luſt? or with the ſame <hi>Abraham</hi> to forſake our native Countrey? ſhall we not forſake a naſty Ale-houſe? In obedience unto God, <hi>Daniel</hi> would pray though he were thrown in to the Lions; in Rebellion againſt God, ſhall we drink though we be thrown into Hell?</p>
+            <p n="2">(2.) As a Duty to our own Souls. Let us every one conſider what his Soul is
+<pb n="41" facs="tcp:184868:21"/>worth; that excellent Piece of God's Work<g ref="char:EOLhyphen"/>manſhip, created after his own Image, re<g ref="char:EOLhyphen"/>deemable by nothing but the blood of his own Son; is this a Soul to be drunk away? To be ſent ſwimming towards the Cham<g ref="char:EOLhyphen"/>bers of Death in a tub of Ale? When the Harbour men ordinarily lie in, an Ale houſe, and their loading is nothing but Drink, can the end of their Voiage be any thing but de<g ref="char:EOLhyphen"/>ſtruction? This is a Sin, and every Sin is damnable; this is a great Sin, againſt the very Law of nature, defacing more of the Image of God in us, than any other Sin that is committable: and when our Trade is in great Sins, our Returns muſt needs be in a great Damnation. It diſpoſeth us unto other Sins. Now doth the Original Cor<g ref="char:EOLhyphen"/>ruption of it ſelf without any help at all, put us (the Lord knows) ſufficiently for<g ref="char:EOLhyphen"/>ward to any thing that is evil? have we any need to improve it? to dung it and water it ever and anon, that it may bring forth more fruit unto death? And what are the Sins we are apt to reel into when we are Drunk? are they ſuch Peccadillos, ſuch ſmall and venial faults, that we ſhould not care how often we put our ſelves into the next capacity of committing them? If it be babling, <hi>of every idle word,</hi> &amp;c. If it be contention, the Apoſtle tells us <hi>it brings
+<pb n="42" facs="tcp:184868:22"/>forth Confuſion and every evil work,</hi> (<hi>James</hi> 3.) If it be Whoredom and Adultery, God will judge us for it, yea though it be com<g ref="char:EOLhyphen"/>mitted no where but in the heart. If it be Contempt and ſcorn of the People of God, <hi>It were better that a Mill-ſtone,</hi> &amp;c. If it be Security, 'twill bring <hi>ſudden Destruction up<g ref="char:EOLhyphen"/>on us, as Travail upon a woman with Child, and we ſhall not eſcape.</hi> 1 Theſ. 5.3.</p>
+            <p>But — <hi>Pauperis eſt numerare Pecus:</hi> This Sin is too rich to bring the Revenues of it into any Catalogue. What evil is it that Drunkenneſs doth not diſpoſe us to? ſha<g ref="char:EOLhyphen"/>king off all thoſe reſtraints that ſhould keep our original Corruption in any order, and putting us into a poſture of breaking every one of Gods Commandments. And if he <hi>that ſhall break one of the leaſt of theſe Com<g ref="char:EOLhyphen"/>mandments, and ſhall teach men ſo, ſhall be call<g ref="char:EOLhyphen"/>ed the leaſt in the Kingdom of Heaven,</hi> (<hi>Mat.</hi> 5.19.) he that ſhall be made fit to break them all, and ſhall make himſelf ſo, muſt needs diſcover an Ambition to be one of the greateſt in the Kingdom of Hell. But Re<g ref="char:EOLhyphen"/>pentance will help all this: True; but where ſhall we have it? Repentance is <hi>the gift of God,</hi> and he gives it by means, to the uſe of which this Sin doth mightily indiſpoſe us. A belly-ful of Ale and a heart ful of penitent tears, ſeldom meet together. That God can
+<pb n="43" facs="tcp:184868:22"/>turn us, no body doubts; <hi>And ſuch were ſome of you, but,</hi> &amp;c. (1 <hi>Cor.</hi> 6.11.) is a Goſpel Inſtance that we ſhould not doubt it; but that he who in all his Life had never yet grace enough to civilize him, ſhould at laſt preſume to have enough to ſave him, is ſuch a hazard, that no man that knows the worth of a Soul would be perſwaded to put it upon it for a thouſand Worlds.</p>
+            <p>Beſides, is the uſe of our Senſes, our Un<g ref="char:EOLhyphen"/>derſtandings, Reaſon, Judgment, Memory of no value, that we ſhould ſo often &amp; ſo eaſily be perſwaded to deprive our ſelves of them? Was that <hi>Candle of the Lord</hi> (as <hi>Solomon</hi> calls the Intellectual powers of the Soul, <hi>Pro.</hi> 20.27.) that we ſhould throw Drink upon it to put it out? Are we weary of our Eſſences as men, that we have a mind to waſh our ſelves down into a lower Kind? was God's Judg<g ref="char:EOLhyphen"/>ment upon <hi>Nebuchadnezar</hi> ſuch a Priviledg, that we daily go about to inflict it upon our ſelves? what harm hath our Reaſon and our Underſtanding at any time done us, that we muſt needs our ſelves do execution upon it? have we too much of it when we are ſober, that we have any need in the world to abate it by being drunk? At this rate it is that we uſe a precious Soul, not only prepare it for deſtruction hereafter, but degrade it from its glory and excellency in the mean time. Con<g ref="char:EOLhyphen"/>ſider we Sobriety,</p>
+            <pb n="44" facs="tcp:184868:23"/>
+            <p n="3">(3.) As a Duty to our <hi>Bodies,</hi> which be<g ref="char:EOLhyphen"/>ing <hi>fearfully and wonderfully made,</hi> (<hi>Pſ.</hi> 139.14.) 'tis a fearful and a wonderful Sin to do any thing that may deſtroy them, and in a manner unmake them again, and render every member uſeleſs as to the Services they were appointed. We find in Scripture two glorious Priviledges that even our Bodies are capable of. <hi>Ex. gr.</hi>
+            </p>
+            <p n="1">(1.) To be <hi>members of Chriſt,</hi> (1 <hi>Cor.</hi> 6.15.) Now look upon a body with a ſwollen tongue, clammed to the roof of an unſavoury mouth, a face at once both roaſted and ſod, eyes ghaſtly ſtaring in a vertiginous head; reeling to and fro in the ſtreets, lying ſenſe<g ref="char:EOLhyphen"/>leſs in the Kennel, or ſwearing, railing, roar<g ref="char:EOLhyphen"/>ing, raving, brawling in a Tavern; and ask any one that hath any acquaintance at all with the Temperance, Purity, Meekneſs, and Holineſs of Chriſt, whether this be one of his members, or no, not fit indeed to be a member of <hi>Bridewell,</hi> or of <hi>Bedlam.</hi>
+            </p>
+            <p n="2">(2.) To be <hi>Temples of the Holy Ghoſt,</hi> (1 <hi>Cor.</hi> 6.19.) Look upon perſons in the pickle but now mentioned, and will any man ſay, <hi>The Temple of the Lord, The Temple of the Lord are theſe?</hi> No, the <hi>Temple of God is holy,</hi> (1 <hi>Cor.</hi> 3.17.) and <hi>res delicata Spiritus Chriſti,</hi> the Spirit of Chriſt too de<g ref="char:EOLhyphen"/>licate and tender for ſo naſty a habitation.
+<pb n="45" facs="tcp:184868:23"/>God doubtleſs will never dwell in us, when no man that loves his Peace or his Stomach will willingly dwell with us. Beſides, what delinquency have our bodies been guilty of, that we ſhould impoſe upon them ſo ſevere a Penance as Drunkenneſs doth amount to? If they do any thing amiſs, 'tis at the inſtance of thoſe Luſts that dwell in our hearts; or if they were indeed faulty, be there no other wayes to be revenged upon them but this? Why do we not puniſh them with Hunger and Thirſt, and Cold and Nakedneſs, and Stripes and Impriſonment? will nothing do the deed but Ale? If we have a mind to ruin theſe houſes of Clay, there be twenty ways, thô not fit, yet fitter to he pitcht upon, than this. Let me allude to and vary that of the Apoſtle, (<hi>Ro.</hi> 14.20.) <hi>For meat deſtroy not the work of God.</hi> Our Bodies are of Gods making: For <hi>drink</hi> deſtroy not the work of God.</p>
+            <p n="4">(4.) As a Duty to our Families. If we have Parents, is it our Duty to bring down their Gray Hairs with Sorrow to the Grave? And if they have any ſence of Pie<g ref="char:EOLhyphen"/>ty, no courſe of ours will contribute more to it than this. If we have Wives, they have an intereſt in our Eſtates, that we ſhould not conſume, and in our company that we ſhould not deprive them of. If we have Children, is this all the love we can ſhew them, to un<g ref="char:EOLhyphen"/>do
+<pb n="46" facs="tcp:184868:24"/>them by our Practice, and debauch them by our example? Briefly, where is our natural Affection to her that is fleſh of our fleſh, and bone of our bone, and to them that are little Models of our ſelves, if we can take their Livelyhood out of their mouths, and their contentment out of their hearts, and ſwallow it down our Throats?</p>
+            <p n="5">(5.) As a Duty to our <hi>Eſtates,</hi> which God never gave us to conſume upon our Luſts, nor that we ſhould piſs them out a<g ref="char:EOLhyphen"/>gainſt a wall; the Poor we have always with us, many that are truly and really and ne<g ref="char:EOLhyphen"/>ceſſarily ſo, who are able to receive what<g ref="char:EOLhyphen"/>ever we are able to beſtow, without the impairing of our Eſtates at all; or if this pleaſe not, becauſe it is a Duty, and we have a mind to be Poor, and Miſerable, and Wretched, and Indebted, and Thredbare, and Ragged, and Lowſie, and unable to pro<g ref="char:EOLhyphen"/>vide Bread, or Drink, or Cloaths, or Call<g ref="char:EOLhyphen"/>ings, or a Livelyhood for our Children; and to procure all this in a way of Sin: there be yet, I think many wayes that are better than this to do it by. Some have voluntari<g ref="char:EOLhyphen"/>ly left their Eſtates to others; yea, Kings and Emperors their Kingdomes: why do not we rather leave our Eſtates, than run out of them? Better go from them, and carry our Health, and Wits, and Senſes, and
+<pb n="47" facs="tcp:184868:24"/>Chriſtianity along with us, than carry them and theſe together to the Tap-head, and there leave them. <hi>Crates</hi> threw all his Goods into the Sea; were not this better than to throw them into our Guts?</p>
+            <p n="6">(6.) As a Duty to our <hi>Neighbours.</hi> Shall we put our ſelves into ſuch a poſture, that nothing but a Miracle can keep us from abu<g ref="char:EOLhyphen"/>ſing them? 'Tis <hi>Pauls</hi> Exhortation, <hi>Rom.</hi> 15.2. <hi>Let every one of us pleaſe his Neighbour for his good to Edification.</hi> If we pleaſe any one by our Exceſs, we are ſure 'tis not for his good, and it doth only <hi>aedificare ad Ge<g ref="char:EOLhyphen"/>hennam;</hi> if it edifie at all, 'tis to the nether<g ref="char:EOLhyphen"/>moſt Hell, by giving him an occaſion to practiſe, or like, or not reprove, or not mourn for what Gods Soul abhorres.</p>
+            <p n="7">(7.) As a Duty to the <hi>Kingdom,</hi> the Land of our Nativity, where we have had our Birth, our Breeding, ſo many good things as a Land flowing with Milk and Honey can well afford us; the welfare whereof we are bound to promote, and to be Serviceable to the concernments of it with all our might; and can we think that this can be done by Drinking? doth not that make us unfit for any thing? I have read that King <hi>Antigonus</hi> being very drunk, and meeting with <hi>Zeno</hi> the Philoſopher, wiſh'd him to command what he would of him, and bound it with
+<pb n="48" facs="tcp:184868:25"/>an Oath, <hi>ſe preſtiturum quicquid poſtularet.</hi> (<hi>Theat.</hi> 802.) <hi>Zeno</hi> replyed, <hi>Abi et Vome;</hi> Go your way and ſpue. To deſire any thing elſe of him, had been to no purpoſe, being fit for that onely. Should a drunkard offer his Service to the Kingdom, and deſire an Employment, if <hi>Zeno</hi> were to give him his Commiſſion, he would diſpatch it in a very few words, <hi>Abi et Vome;</hi> Command him to Vomit, or Sleep, as being fit for no<g ref="char:EOLhyphen"/>thing elſe. But thô this ſhould be enough to ſhame us into <hi>Sobriety,</hi> that otherwiſe we are good for nothing, there is in our guilt of this Sin an Addition of much more; we are a Plague and a Curſe to the whole Nation, by Drinking down the Judgments of God upon it.</p>
+            <p n="8">(8.) As a Duty to the <hi>Church.</hi> Will any body that hath read the Bible, believe us to be Chriſtians? Did Chriſt ever give us any Licenſe in his Word, or Encouragement in his Practice for ſuch a courſe? Doth not the Law curſe it, the Goſpel condemn it, and all that fear God abhorre it? Is it not our Duty, or is this the way to adorn the Doctrine of God our Saviour?</p>
+            <p>I might eaſily add many Arguments more; but this ſhall ſuffice as to the firſt Branch of the Point—<hi>Sobriety of Body.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
